@@ -37,7 +37,7 @@ st.write("Enter appliance parameters below to predict failure risk using our tra
 @st.cache_resource
 def train_model():
     try:
-        df = pd.read_csv('ai4i.csv')
+       df = pd.read_csv('ai4i.csv', encoding='latin1')
     except FileNotFoundError:
         return None, None, "ai4i.csv not found in repo!"
 
