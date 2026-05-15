@@ -12,7 +12,7 @@
 
 ## 🚀 Live Demo
 
-🔗 **[Open Live App → lg-smartcare-kaif9910.streamlit.app](https://lg-smartcare-kaif9910.streamlit.app)**
+🔗 **[Open Live App → lg-smartcare-kaif9910.streamlit.app](https://lg-smartcare.streamlit.app)**
 
 ---
 
